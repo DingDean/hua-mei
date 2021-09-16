@@ -1,0 +1,7 @@
+{
+  "name": "@huamei/color",
+  "version": "1.0.0",
+  "description": "Tailwind Color Extentio for Chinese Traditional Colors",
+  "main": "index.js",
+  "license": "MIT"
+}
