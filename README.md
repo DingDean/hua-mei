@@ -1,202 +1,55 @@
 # 中国传统色 / Chinese Traditional Colors
 
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#9ebc19;margin-right: 8px; width: 64px;">人籁</span>
-<div style="background-color:#9ebc19;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#c3d94e;margin-right: 8px; width: 64px;">青粲</span>
-<div style="background-color:#c3d94e;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#b7d332;margin-right: 8px; width: 64px;">翠缥</span>
-<div style="background-color:#b7d332;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#84a729;margin-right: 8px; width: 64px;">水龙吟</span>
-<div style="background-color:#84a729;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#779649;margin-right: 8px; width: 64px;">碧山</span>
-<div style="background-color:#779649;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#6a8d52;margin-right: 8px; width: 64px;">石发</span>
-<div style="background-color:#6a8d52;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#698e6a;margin-right: 8px; width: 64px;">菉竹</span>
-<div style="background-color:#698e6a;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#68945c;margin-right: 8px; width: 64px;">庭芜绿</span>
-<div style="background-color:#68945c;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#6c8650;margin-right: 8px; width: 64px;">葱倩</span>
-<div style="background-color:#6c8650;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#5d8351;margin-right: 8px; width: 64px;">漆姑</span>
-<div style="background-color:#5d8351;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#4c8045;margin-right: 8px; width: 64px;">翠微</span>
-<div style="background-color:#4c8045;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#4f794a;margin-right: 8px; width: 64px;">芰荷</span>
-<div style="background-color:#4f794a;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#4f6f46;margin-right: 8px; width: 64px;">青青</span>
-<div style="background-color:#4f6f46;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#446a37;margin-right: 8px; width: 64px;">翠虬</span>
-<div style="background-color:#446a37;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#2a6e3f;margin-right: 8px; width: 64px;">官绿</span>
-<div style="background-color:#2a6e3f;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#5d7259;margin-right: 8px; width: 64px;">油绿</span>
-<div style="background-color:#5d7259;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#4e6548;margin-right: 8px; width: 64px;">莓莓</span>
-<div style="background-color:#4e6548;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#3f503b;margin-right: 8px; width: 64px;">螺青</span>
-<div style="background-color:#3f503b;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#a9be7b;margin-right: 8px; width: 64px;">春辰</span>
-<div style="background-color:#a9be7b;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#c0d09d;margin-right: 8px; width: 64px;">麴尘</span>
-<div style="background-color:#c0d09d;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#c0d695;margin-right: 8px; width: 64px;">欧碧</span>
-<div style="background-color:#c0d695;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#a8bf8f;margin-right: 8px; width: 64px;">苍葭</span>
-<div style="background-color:#a8bf8f;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#a8b78c;margin-right: 8px; width: 64px;">兰苕</span>
-<div style="background-color:#a8b78c;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#a8b092;margin-right: 8px; width: 64px;">青玉案</span>
-<div style="background-color:#a8b092;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#90a07d;margin-right: 8px; width: 64px;">碧滋</span>
-<div style="background-color:#90a07d;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#bfc096;margin-right: 8px; width: 64px;">瓷秘</span>
-<div style="background-color:#bfc096;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#d5d1ae;margin-right: 8px; width: 64px;">筠雾</span>
-<div style="background-color:#d5d1ae;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#bfb99c;margin-right: 8px; width: 64px;">行香子</span>
-<div style="background-color:#bfb99c;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#b3b59c;margin-right: 8px; width: 64px;">鸣珂</span>
-<div style="background-color:#b3b59c;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#a9a886;margin-right: 8px; width: 64px;">琬琰</span>
-<div style="background-color:#a9a886;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#a9a773;margin-right: 8px; width: 64px;">出岫</span>
-<div style="background-color:#a9a773;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#a99f70;margin-right: 8px; width: 64px;">王刍</span>
-<div style="background-color:#a99f70;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#9d9d82;margin-right: 8px; width: 64px;">春碧</span>
-<div style="background-color:#9d9d82;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#919177;margin-right: 8px; width: 64px;">执大象</span>
-<div style="background-color:#919177;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#92905d;margin-right: 8px; width: 64px;">青圭</span>
-<div style="background-color:#92905d;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#938f4c;margin-right: 8px; width: 64px;">绿沈</span>
-<div style="background-color:#938f4c;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#868c4e;margin-right: 8px; width: 64px;">风入松</span>
-<div style="background-color:#868c4e;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#877d52;margin-right: 8px; width: 64px;">荩箧</span>
-<div style="background-color:#877d52;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#7f754c;margin-right: 8px; width: 64px;">绞衣</span>
-<div style="background-color:#7f754c;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#595333;margin-right: 8px; width: 64px;">素綦</span>
-<div style="background-color:#595333;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#99bcac;margin-right: 8px; width: 64px;">苍筤</span>
-<div style="background-color:#99bcac;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#d5ebe1;margin-right: 8px; width: 64px;">天缥</span>
-<div style="background-color:#d5ebe1;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#d5e3d4;margin-right: 8px; width: 64px;">卵色</span>
-<div style="background-color:#d5e3d4;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#b1d5c8;margin-right: 8px; width: 64px;">沧浪</span>
-<div style="background-color:#b1d5c8;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#cad7c5;margin-right: 8px; width: 64px;">葭菼</span>
-<div style="background-color:#cad7c5;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#bed2bb;margin-right: 8px; width: 64px;">山岚</span>
-<div style="background-color:#bed2bb;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#becab7;margin-right: 8px; width: 64px;">冰台</span>
-<div style="background-color:#becab7;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#b2bda9;margin-right: 8px; width: 64px;">青古</span>
-<div style="background-color:#b2bda9;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#a6bab1;margin-right: 8px; width: 64px;">醽醁</span>
-<div style="background-color:#a6bab1;flex-grow: 1;height: 32px;"></div>
-</div>
-<div style="display: flex;margin-bottom: 8px;">
-<span style="color:#9bb496;margin-right: 8px; width: 64px;">渌波</span>
-<div style="background-color:#9bb496;flex-grow: 1;height: 32px;"></div>
-</div>
+| 名字 / Name| 颜色 / Color| 色号 / Hex |
+|---|---|---|
+|人籁| ![人籁](https://via.placeholder.com/150x32/9ebc19?text=+) | #9ebc19 |
+|青粲| ![青粲](https://via.placeholder.com/150x32/c3d94e?text=+) | #c3d94e |
+|翠缥| ![翠缥](https://via.placeholder.com/150x32/b7d332?text=+) | #b7d332 |
+|水龙吟| ![水龙吟](https://via.placeholder.com/150x32/84a729?text=+) | #84a729 |
+|碧山| ![碧山](https://via.placeholder.com/150x32/779649?text=+) | #779649 |
+|石发| ![石发](https://via.placeholder.com/150x32/6a8d52?text=+) | #6a8d52 |
+|菉竹| ![菉竹](https://via.placeholder.com/150x32/698e6a?text=+) | #698e6a |
+|庭芜绿| ![庭芜绿](https://via.placeholder.com/150x32/68945c?text=+) | #68945c |
+|葱倩| ![葱倩](https://via.placeholder.com/150x32/6c8650?text=+) | #6c8650 |
+|漆姑| ![漆姑](https://via.placeholder.com/150x32/5d8351?text=+) | #5d8351 |
+|翠微| ![翠微](https://via.placeholder.com/150x32/4c8045?text=+) | #4c8045 |
+|芰荷| ![芰荷](https://via.placeholder.com/150x32/4f794a?text=+) | #4f794a |
+|青青| ![青青](https://via.placeholder.com/150x32/4f6f46?text=+) | #4f6f46 |
+|翠虬| ![翠虬](https://via.placeholder.com/150x32/446a37?text=+) | #446a37 |
+|官绿| ![官绿](https://via.placeholder.com/150x32/2a6e3f?text=+) | #2a6e3f |
+|油绿| ![油绿](https://via.placeholder.com/150x32/5d7259?text=+) | #5d7259 |
+|莓莓| ![莓莓](https://via.placeholder.com/150x32/4e6548?text=+) | #4e6548 |
+|螺青| ![螺青](https://via.placeholder.com/150x32/3f503b?text=+) | #3f503b |
+|春辰| ![春辰](https://via.placeholder.com/150x32/a9be7b?text=+) | #a9be7b |
+|麴尘| ![麴尘](https://via.placeholder.com/150x32/c0d09d?text=+) | #c0d09d |
+|欧碧| ![欧碧](https://via.placeholder.com/150x32/c0d695?text=+) | #c0d695 |
+|苍葭| ![苍葭](https://via.placeholder.com/150x32/a8bf8f?text=+) | #a8bf8f |
+|兰苕| ![兰苕](https://via.placeholder.com/150x32/a8b78c?text=+) | #a8b78c |
+|青玉案| ![青玉案](https://via.placeholder.com/150x32/a8b092?text=+) | #a8b092 |
+|碧滋| ![碧滋](https://via.placeholder.com/150x32/90a07d?text=+) | #90a07d |
+|瓷秘| ![瓷秘](https://via.placeholder.com/150x32/bfc096?text=+) | #bfc096 |
+|筠雾| ![筠雾](https://via.placeholder.com/150x32/d5d1ae?text=+) | #d5d1ae |
+|行香子| ![行香子](https://via.placeholder.com/150x32/bfb99c?text=+) | #bfb99c |
+|鸣珂| ![鸣珂](https://via.placeholder.com/150x32/b3b59c?text=+) | #b3b59c |
+|琬琰| ![琬琰](https://via.placeholder.com/150x32/a9a886?text=+) | #a9a886 |
+|出岫| ![出岫](https://via.placeholder.com/150x32/a9a773?text=+) | #a9a773 |
+|王刍| ![王刍](https://via.placeholder.com/150x32/a99f70?text=+) | #a99f70 |
+|春碧| ![春碧](https://via.placeholder.com/150x32/9d9d82?text=+) | #9d9d82 |
+|执大象| ![执大象](https://via.placeholder.com/150x32/919177?text=+) | #919177 |
+|青圭| ![青圭](https://via.placeholder.com/150x32/92905d?text=+) | #92905d |
+|绿沈| ![绿沈](https://via.placeholder.com/150x32/938f4c?text=+) | #938f4c |
+|风入松| ![风入松](https://via.placeholder.com/150x32/868c4e?text=+) | #868c4e |
+|荩箧| ![荩箧](https://via.placeholder.com/150x32/877d52?text=+) | #877d52 |
+|绞衣| ![绞衣](https://via.placeholder.com/150x32/7f754c?text=+) | #7f754c |
+|素綦| ![素綦](https://via.placeholder.com/150x32/595333?text=+) | #595333 |
+|苍筤| ![苍筤](https://via.placeholder.com/150x32/99bcac?text=+) | #99bcac |
+|天缥| ![天缥](https://via.placeholder.com/150x32/d5ebe1?text=+) | #d5ebe1 |
+|卵色| ![卵色](https://via.placeholder.com/150x32/d5e3d4?text=+) | #d5e3d4 |
+|沧浪| ![沧浪](https://via.placeholder.com/150x32/b1d5c8?text=+) | #b1d5c8 |
+|葭菼| ![葭菼](https://via.placeholder.com/150x32/cad7c5?text=+) | #cad7c5 |
+|山岚| ![山岚](https://via.placeholder.com/150x32/bed2bb?text=+) | #bed2bb |
+|冰台| ![冰台](https://via.placeholder.com/150x32/becab7?text=+) | #becab7 |
+|青古| ![青古](https://via.placeholder.com/150x32/b2bda9?text=+) | #b2bda9 |
+|醽醁| ![醽醁](https://via.placeholder.com/150x32/a6bab1?text=+) | #a6bab1 |
+|渌波| ![渌波](https://via.placeholder.com/150x32/9bb496?text=+) | #9bb496 |
+

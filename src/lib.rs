@@ -37,6 +37,7 @@ pub struct Colour {
     pub alias: String,
     pub rgb: Vec<u8>,
     pub hex: String,
+    pub hex2: String,
 }
 
 impl Colour {
@@ -46,6 +47,7 @@ impl Colour {
             alias,
             rgb: vec![r, g, b],
             hex: format!("#{:02x}{:02x}{:02x}", r, g, b),
+            hex2: format!("{:02x}{:02x}{:02x}", r, g, b),
         }
     }
 }
