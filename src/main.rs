@@ -15,14 +15,31 @@ use hua_mei::Tradition;
 fn main() {
     let mut handlebar = Handlebars::new();
     let tradition = Tradition::new();
-    handlebar
-        .register_template_file("tailwind", "./templates/tailwind.hbs")
-        .expect("unable to open template");
 
-    let mut output = std::fs::File::create("./packages/tailwind/index.js")
-        .expect("unable to create output file");
+    // generate tailwind
+    {
+        handlebar
+            .register_template_file("tailwind", "./templates/tailwind.hbs")
+            .expect("unable to open template");
 
-    handlebar
-        .render_to_write("tailwind", &tradition, &mut output)
-        .unwrap();
+        let mut output = std::fs::File::create("./packages/tailwind/index.js")
+            .expect("unable to create output file");
+
+        handlebar
+            .render_to_write("tailwind", &tradition, &mut output)
+            .unwrap();
+    }
+
+    // generate readme
+    {
+        handlebar
+            .register_template_file("readme", "./templates/readme.hbs")
+            .expect("unable to open template");
+
+        let mut output = std::fs::File::create("README.md").expect("unable to create output file");
+
+        handlebar
+            .render_to_write("readme", &tradition, &mut output)
+            .unwrap();
+    }
 }
