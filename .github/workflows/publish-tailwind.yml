@@ -1,0 +1,47 @@
+name: Publish Npm Package
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ] 
+  
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment: Publish
+
+    strategy:
+      matrix:
+        node-version: [14.x]
+    
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+    
+    - name: Flatten Package Contents to Root
+      run: |
+        mv ./packages/tailwind/* .
+
+    - name: Build
+      run: |
+        npm install
+        npx webpack --mode=production
+        
+    - name: Npm Publish --dry-run
+      uses: JS-DevTools/npm-publish@v1
+      if: ${{ github.event_name == 'pull_request' }}
+      with:
+        token: ${{ secrets.NPM_TOKEN }}
+        dry-run: true
+    
+    - name: Npm Publish
+      uses: JS-DevTools/npm-publish@v1
+      if: ${{ github.event_name == 'push' }}
+      with:
+        token: ${{ secrets.NPM_TOKEN }}
+        dry-run: false
