@@ -147,3 +147,17 @@
 |地血| ![地血](https://via.placeholder.com/150x32/814662?text=+) | #814662 |
 |芥拾紫| ![芥拾紫](https://via.placeholder.com/150x32/602641?text=+) | #602641 |
 |油紫| ![油紫](https://via.placeholder.com/150x32/420b2f?text=+) | #420b2f |
+|紫薄汗| ![紫薄汗](https://via.placeholder.com/150x32/bba1cb?text=+) | #bba1cb |
+|退红| ![退红](https://via.placeholder.com/150x32/f0cfe3?text=+) | #f0cfe3 |
+|昌荣| ![昌荣](https://via.placeholder.com/150x32/dcc7e1?text=+) | #dcc7e1 |
+|樱花| ![樱花](https://via.placeholder.com/150x32/e4b8d5?text=+) | #e4b8d5 |
+|丁香| ![丁香](https://via.placeholder.com/150x32/ce93bf?text=+) | #ce93bf |
+|木槿| ![木槿](https://via.placeholder.com/150x32/ba79b1?text=+) | #ba79b1 |
+|茈藐| ![茈藐](https://via.placeholder.com/150x32/a67eb7?text=+) | #a67eb7 |
+|紫蒲| ![紫蒲](https://via.placeholder.com/150x32/a6559d?text=+) | #a6559d |
+|紫紶| ![紫紶](https://via.placeholder.com/150x32/7d5284?text=+) | #7d5284 |
+|拂紫绵| ![拂紫绵](https://via.placeholder.com/150x32/7e527f?text=+) | #7e527f |
+|頳紫| ![頳紫](https://via.placeholder.com/150x32/8a1874?text=+) | #8a1874 |
+|三公子| ![三公子](https://via.placeholder.com/150x32/663d74?text=+) | #663d74 |
+|齐紫| ![齐紫](https://via.placeholder.com/150x32/6c216d?text=+) | #6c216d |
+|凝夜紫| ![凝夜紫](https://via.placeholder.com/150x32/422256?text=+) | #422256 |

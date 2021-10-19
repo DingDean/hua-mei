@@ -869,6 +869,90 @@ export const metas = [
   rgb: [66, 11, 47, ],
   hex: "#420b2f"
 },
+{
+  name: "紫薄汗",
+  alias: "zibohan",
+  rgb: [187, 161, 203, ],
+  hex: "#bba1cb"
+},
+{
+  name: "退红",
+  alias: "tuihong",
+  rgb: [240, 207, 227, ],
+  hex: "#f0cfe3"
+},
+{
+  name: "昌荣",
+  alias: "changrong",
+  rgb: [220, 199, 225, ],
+  hex: "#dcc7e1"
+},
+{
+  name: "樱花",
+  alias: "yinhua",
+  rgb: [228, 184, 213, ],
+  hex: "#e4b8d5"
+},
+{
+  name: "丁香",
+  alias: "dingxiang",
+  rgb: [206, 147, 191, ],
+  hex: "#ce93bf"
+},
+{
+  name: "木槿",
+  alias: "mujing",
+  rgb: [186, 121, 177, ],
+  hex: "#ba79b1"
+},
+{
+  name: "茈藐",
+  alias: "zimiao",
+  rgb: [166, 126, 183, ],
+  hex: "#a67eb7"
+},
+{
+  name: "紫蒲",
+  alias: "zipu",
+  rgb: [166, 85, 157, ],
+  hex: "#a6559d"
+},
+{
+  name: "紫紶",
+  alias: "ziqu",
+  rgb: [125, 82, 132, ],
+  hex: "#7d5284"
+},
+{
+  name: "拂紫绵",
+  alias: "fuzimian",
+  rgb: [126, 82, 127, ],
+  hex: "#7e527f"
+},
+{
+  name: "頳紫",
+  alias: "chengzi",
+  rgb: [138, 24, 116, ],
+  hex: "#8a1874"
+},
+{
+  name: "三公子",
+  alias: "sangongzi",
+  rgb: [102, 61, 116, ],
+  hex: "#663d74"
+},
+{
+  name: "齐紫",
+  alias: "qizi",
+  rgb: [108, 33, 109, ],
+  hex: "#6c216d"
+},
+{
+  name: "凝夜紫",
+  alias: "ningyezi",
+  rgb: [66, 34, 86, ],
+  hex: "#422256"
+},
 ]
 
 export const colors = {
@@ -1017,4 +1101,18 @@ export const colors = {
   "dixue": "#814662",
   "jieshizi": "#602641",
   "youzi": "#420b2f",
+  "zibohan": "#bba1cb",
+  "tuihong": "#f0cfe3",
+  "changrong": "#dcc7e1",
+  "yinhua": "#e4b8d5",
+  "dingxiang": "#ce93bf",
+  "mujing": "#ba79b1",
+  "zimiao": "#a67eb7",
+  "zipu": "#a6559d",
+  "ziqu": "#7d5284",
+  "fuzimian": "#7e527f",
+  "chengzi": "#8a1874",
+  "sangongzi": "#663d74",
+  "qizi": "#6c216d",
+  "ningyezi": "#422256",
 }

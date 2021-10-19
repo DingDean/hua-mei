@@ -1,6 +1,6 @@
 ## 使用指南 Get Started
 
-1. `npm install @huamei/colors` or `yarn add @huamei/colors`
+1. `npm i huamei-colors` or `yarn add huamei-colors`
 2. 拓展 tailwind 的主题颜色:
 ```js
 // tailwind.config.js
