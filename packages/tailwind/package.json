@@ -1,6 +1,6 @@
 {
   "name": "@huamei/color",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Tailwind Color Extentio for Chinese Traditional Colors",
   "main": "dist/index.js",
   "module":"index.js",
@@ -8,6 +8,7 @@
   "scripts": {
     "build": "webpack --mode=production"
   },
+  "files":["index.js"],
   "dependencies": {
     "webpack": "^5.58.1",
     "webpack-cli": "^4.9.0"
