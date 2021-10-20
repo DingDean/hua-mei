@@ -953,6 +953,210 @@ export const metas = [
   rgb: [66, 34, 86, ],
   hex: "#422256"
 },
+{
+  name: "石英",
+  alias: "shiying",
+  rgb: [200, 182, 187, ],
+  hex: "#c8b6bb"
+},
+{
+  name: "香炉紫烟",
+  alias: "xiangluziyan",
+  rgb: [211, 204, 214, ],
+  hex: "#d3ccd6"
+},
+{
+  name: "苍烟落照",
+  alias: "cangyanluozhao",
+  rgb: [200, 181, 179, ],
+  hex: "#c8b5b3"
+},
+{
+  name: "甘石",
+  alias: "ganshi",
+  rgb: [189, 178, 178, ],
+  hex: "#bdb2b2"
+},
+{
+  name: "紫菂",
+  alias: "zidi",
+  rgb: [155, 142, 169, ],
+  hex: "#9b8ea9"
+},
+{
+  name: "银褐",
+  alias: "yinhe",
+  rgb: [156, 141, 155, ],
+  hex: "#9c8d9b"
+},
+{
+  name: "藕丝褐",
+  alias: "ousihe",
+  rgb: [168, 135, 135, ],
+  hex: "#a88787"
+},
+{
+  name: "烟红",
+  alias: "yanhong",
+  rgb: [157, 133, 143, ],
+  hex: "#9d858f"
+},
+{
+  name: "迷楼灰",
+  alias: "milouhui",
+  rgb: [145, 130, 143, ],
+  hex: "#91828f"
+},
+{
+  name: "红藤杖",
+  alias: "hongtengzhang",
+  rgb: [146, 129, 135, ],
+  hex: "#928187"
+},
+{
+  name: "鸦雏",
+  alias: "yachu",
+  rgb: [106, 91, 109, ],
+  hex: "#6a5b6d"
+},
+{
+  name: "玄天",
+  alias: "xuantian",
+  rgb: [107, 84, 88, ],
+  hex: "#6b5458"
+},
+{
+  name: "烟墨",
+  alias: "yanmo",
+  rgb: [92, 79, 85, ],
+  hex: "#5c4f55"
+},
+{
+  name: "紫鼠",
+  alias: "zishu",
+  rgb: [89, 76, 87, ],
+  hex: "#594c57"
+},
+{
+  name: "栀子",
+  alias: "zhizi",
+  rgb: [250, 192, 61, ],
+  hex: "#fac03d"
+},
+{
+  name: "黄白游",
+  alias: "huangbaiyou",
+  rgb: [255, 247, 153, ],
+  hex: "#fff799"
+},
+{
+  name: "松花",
+  alias: "songhua",
+  rgb: [255, 238, 111, ],
+  hex: "#ffee6f"
+},
+{
+  name: "缃叶",
+  alias: "xiangye",
+  rgb: [236, 212, 82, ],
+  hex: "#ecd452"
+},
+{
+  name: "黄栗留",
+  alias: "huangliliu",
+  rgb: [254, 220, 94, ],
+  hex: "#fedc5e"
+},
+{
+  name: "嫩鹅黄",
+  alias: "nengehuang",
+  rgb: [242, 200, 103, ],
+  hex: "#f2c867"
+},
+{
+  name: "黄河琉璃",
+  alias: "huangheliuli",
+  rgb: [229, 168, 75, ],
+  hex: "#e5a84b"
+},
+{
+  name: "杏子",
+  alias: "xingzi",
+  rgb: [218, 146, 51, ],
+  hex: "#da9233"
+},
+{
+  name: "红友",
+  alias: "hongyou",
+  rgb: [217, 136, 61, ],
+  hex: "#d9883d"
+},
+{
+  name: "库金",
+  alias: "kujing",
+  rgb: [225, 138, 59, ],
+  hex: "#e18a3b"
+},
+{
+  name: "鞠衣",
+  alias: "juyi",
+  rgb: [211, 162, 55, ],
+  hex: "#d3a237"
+},
+{
+  name: "黄不老",
+  alias: "huangbulao",
+  rgb: [219, 155, 52, ],
+  hex: "#db9b34"
+},
+{
+  name: "郁金裙",
+  alias: "yujinqun",
+  rgb: [208, 134, 53, ],
+  hex: "#d08635"
+},
+{
+  name: "露褐",
+  alias: "luhe",
+  rgb: [189, 130, 83, ],
+  hex: "#bd8253"
+},
+{
+  name: "鹅黄",
+  alias: "ehuang",
+  rgb: [190, 138, 47, ],
+  hex: "#be8a2f"
+},
+{
+  name: "光明砂",
+  alias: "guangmingsha",
+  rgb: [204, 93, 32, ],
+  hex: "#cc5d20"
+},
+{
+  name: "柘黄",
+  alias: "zhehuang",
+  rgb: [198, 121, 21, ],
+  hex: "#c67915"
+},
+{
+  name: "媚蝶",
+  alias: "meidie",
+  rgb: [188, 110, 55, ],
+  hex: "#bc6e37"
+},
+{
+  name: "黄流",
+  alias: "huangliu",
+  rgb: [159, 96, 39, ],
+  hex: "#9f6027"
+},
+{
+  name: "韎韐",
+  alias: "meige",
+  rgb: [159, 82, 33, ],
+  hex: "#9f5221"
+},
 ]
 
 export const colors = {
@@ -1115,4 +1319,38 @@ export const colors = {
   "sangongzi": "#663d74",
   "qizi": "#6c216d",
   "ningyezi": "#422256",
+  "shiying": "#c8b6bb",
+  "xiangluziyan": "#d3ccd6",
+  "cangyanluozhao": "#c8b5b3",
+  "ganshi": "#bdb2b2",
+  "zidi": "#9b8ea9",
+  "yinhe": "#9c8d9b",
+  "ousihe": "#a88787",
+  "yanhong": "#9d858f",
+  "milouhui": "#91828f",
+  "hongtengzhang": "#928187",
+  "yachu": "#6a5b6d",
+  "xuantian": "#6b5458",
+  "yanmo": "#5c4f55",
+  "zishu": "#594c57",
+  "zhizi": "#fac03d",
+  "huangbaiyou": "#fff799",
+  "songhua": "#ffee6f",
+  "xiangye": "#ecd452",
+  "huangliliu": "#fedc5e",
+  "nengehuang": "#f2c867",
+  "huangheliuli": "#e5a84b",
+  "xingzi": "#da9233",
+  "hongyou": "#d9883d",
+  "kujing": "#e18a3b",
+  "juyi": "#d3a237",
+  "huangbulao": "#db9b34",
+  "yujinqun": "#d08635",
+  "luhe": "#bd8253",
+  "ehuang": "#be8a2f",
+  "guangmingsha": "#cc5d20",
+  "zhehuang": "#c67915",
+  "meidie": "#bc6e37",
+  "huangliu": "#9f6027",
+  "meige": "#9f5221",
 }
