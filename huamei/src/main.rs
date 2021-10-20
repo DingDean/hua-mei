@@ -10,7 +10,7 @@
 //! * 打包成 vim 的配色方案
 //! * Rust 生态的色彩包
 use handlebars::Handlebars;
-use hua_mei::Tradition;
+use huamei::Tradition;
 
 fn main() {
     let mut handlebar = Handlebars::new();
@@ -36,7 +36,8 @@ fn main() {
             .register_template_file("readme", "./templates/readme.hbs")
             .expect("unable to open template");
 
-        let mut output = std::fs::File::create("README.md").expect("unable to create output file");
+        let mut output =
+            std::fs::File::create("./README.md").expect("unable to create output file");
 
         handlebar
             .render_to_write("readme", &tradition, &mut output)
