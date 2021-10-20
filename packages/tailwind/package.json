@@ -1,6 +1,6 @@
 {
   "name": "huamei-colors",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Tailwind Theme Extention for Chinese Traditional Colors",
   "main": "dist/index.js",
   "module":"index.js",

@@ -4,7 +4,7 @@
 2. 拓展 tailwind 的主题颜色:
 ```js
 // tailwind.config.js
-const { colors } = require('@huamei/colors')
+const { colors } = require('huamei-colors')
 
 module.exports = {
   theme: {
