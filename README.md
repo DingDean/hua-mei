@@ -1,5 +1,23 @@
 # 中国传统色 / Chinese Traditional Colors
 
+## 使用指南 Get Started
+
+1. `npm i huamei-colors` or `yarn add huamei-colors`
+2. 拓展 tailwind 的主题颜色:
+```js
+// tailwind.config.js
+const { colors } = require('@huamei/colors')
+
+module.exports = {
+  theme: {
+    extend: {...colors},
+  },
+  ...
+}
+```
+3. 使用颜色，比如 `text-renlai`
+
+## 颜色预览 Color Previews
 | 名字 / Name| 颜色 / Color| 色号 / Hex |
 |---|---|---|
 |人籁| ![人籁](https://via.placeholder.com/150x32/9ebc19?text=+) | #9ebc19 |
