@@ -1157,6 +1157,588 @@ export const metas = [
   rgb: [159, 82, 33, ],
   hex: "#9f5221"
 },
+{
+  name: "九斤黄",
+  alias: "jiujinghuang",
+  rgb: [221, 176, 120, ],
+  hex: "#ddb078"
+},
+{
+  name: "弗肯红",
+  alias: "fukenhong",
+  rgb: [236, 217, 199, ],
+  hex: "#ecd9c7"
+},
+{
+  name: "赤璋",
+  alias: "chizhang",
+  rgb: [225, 193, 153, ],
+  hex: "#e1c199"
+},
+{
+  name: "如梦令",
+  alias: "rumengling",
+  rgb: [221, 187, 153, ],
+  hex: "#ddbb99"
+},
+{
+  name: "茧色",
+  alias: "jianse",
+  rgb: [198, 162, 104, ],
+  hex: "#c6a268"
+},
+{
+  name: "芸黄",
+  alias: "yunhuang",
+  rgb: [210, 163, 108, ],
+  hex: "#d2a36c"
+},
+{
+  name: "椒房",
+  alias: "jiaofang",
+  rgb: [219, 156, 94, ],
+  hex: "#db9c5e"
+},
+{
+  name: "金埒",
+  alias: "jinlie",
+  rgb: [190, 148, 87, ],
+  hex: "#be9457"
+},
+{
+  name: "雌黄",
+  alias: "cihuang",
+  rgb: [180, 136, 77, ],
+  hex: "#b4884d"
+},
+{
+  name: "密陀僧",
+  alias: "mituoseng",
+  rgb: [179, 147, 75, ],
+  hex: "#b3934b"
+},
+{
+  name: "大块",
+  alias: "dakuai",
+  rgb: [191, 167, 130, ],
+  hex: "#bfa782"
+},
+{
+  name: "蜜合",
+  alias: "mihe",
+  rgb: [223, 215, 194, ],
+  hex: "#dfd7c2"
+},
+{
+  name: "地籁",
+  alias: "dilai",
+  rgb: [223, 206, 180, ],
+  hex: "#dfceb4"
+},
+{
+  name: "仙米",
+  alias: "xianmi",
+  rgb: [212, 201, 170, ],
+  hex: "#d4c9aa"
+},
+{
+  name: "假山南",
+  alias: "jiashannan",
+  rgb: [212, 193, 166, ],
+  hex: "#d4c1a6"
+},
+{
+  name: "黄粱",
+  alias: "huangliang",
+  rgb: [196, 183, 152, ],
+  hex: "#c4b798"
+},
+{
+  name: "石蜜",
+  alias: "shimi",
+  rgb: [196, 191, 137, ],
+  hex: "#c4bf89"
+},
+{
+  name: "紫花布",
+  alias: "zihuabu",
+  rgb: [190, 167, 139, ],
+  hex: "#bea78b"
+},
+{
+  name: "黄封",
+  alias: "huangfeng",
+  rgb: [202, 178, 114, ],
+  hex: "#cab272"
+},
+{
+  name: "养生主",
+  alias: "yangshengzhu",
+  rgb: [180, 155, 127, ],
+  hex: "#b49b7f"
+},
+{
+  name: "沙饧",
+  alias: "shaxing",
+  rgb: [191, 166, 112, ],
+  hex: "#bfa670"
+},
+{
+  name: "黄螺",
+  alias: "huangluo",
+  rgb: [180, 163, 121, ],
+  hex: "#b4a379"
+},
+{
+  name: "蒸栗",
+  alias: "zhengli",
+  rgb: [165, 138, 95, ],
+  hex: "#a58a5f"
+},
+{
+  name: "巨吕",
+  alias: "julv",
+  rgb: [170, 142, 89, ],
+  hex: "#aa8e59"
+},
+{
+  name: "降真香",
+  alias: "jiangzhenxiang",
+  rgb: [158, 131, 88, ],
+  hex: "#9e8358"
+},
+{
+  name: "大云",
+  alias: "dayun",
+  rgb: [148, 120, 79, ],
+  hex: "#94784f"
+},
+{
+  name: "吉金",
+  alias: "jijin",
+  rgb: [137, 109, 71, ],
+  hex: "#896d47"
+},
+{
+  name: "远志",
+  alias: "yuanzhi",
+  rgb: [129, 102, 59, ],
+  hex: "#81663b"
+},
+{
+  name: "射干",
+  alias: "shegan",
+  rgb: [124, 98, 63, ],
+  hex: "#7c623f"
+},
+{
+  name: "油葫芦",
+  alias: "youhulu",
+  rgb: [100, 77, 49, ],
+  hex: "#644d31"
+},
+{
+  name: "龙战",
+  alias: "longzhan",
+  rgb: [95, 67, 33, ],
+  hex: "#5f4321"
+},
+{
+  name: "緅絺",
+  alias: "zouchi",
+  rgb: [128, 76, 46, ],
+  hex: "#804c2e"
+},
+{
+  name: "葭灰",
+  alias: "jiahui",
+  rgb: [190, 177, 170, ],
+  hex: "#beb1aa"
+},
+{
+  name: "珠子褐",
+  alias: "zhuzihe",
+  rgb: [190, 168, 157, ],
+  hex: "#bea89d"
+},
+{
+  name: "黄埃",
+  alias: "huangai",
+  rgb: [180, 146, 115, ],
+  hex: "#b49273"
+},
+{
+  name: "沉香",
+  alias: "chenxiang",
+  rgb: [153, 128, 108, ],
+  hex: "#99806c"
+},
+{
+  name: "明茶褐",
+  alias: "minchahe",
+  rgb: [158, 131, 104, ],
+  hex: "#9e8368"
+},
+{
+  name: "荆褐",
+  alias: "jinhe",
+  rgb: [144, 108, 74, ],
+  hex: "#906c4a"
+},
+{
+  name: "驼褐",
+  alias: "tuohe",
+  rgb: [124, 91, 62, ],
+  hex: "#7c5b3e"
+},
+{
+  name: "缊韨",
+  alias: "yunfu",
+  rgb: [152, 79, 49, ],
+  hex: "#984f31"
+},
+{
+  name: "棠梨褐",
+  alias: "tanglihe",
+  rgb: [149, 90, 66, ],
+  hex: "#955a42"
+},
+{
+  name: "檀褐",
+  alias: "tanhe",
+  rgb: [148, 86, 53, ],
+  hex: "#945635"
+},
+{
+  name: "朱石栗",
+  alias: "zhushihe",
+  rgb: [129, 73, 44, ],
+  hex: "#81492c"
+},
+{
+  name: "紫瓯",
+  alias: "ziou",
+  rgb: [124, 70, 30, ],
+  hex: "#7c461e"
+},
+{
+  name: "栗壳",
+  alias: "like",
+  rgb: [119, 80, 57, ],
+  hex: "#775039"
+},
+{
+  name: "麝香褐",
+  alias: "shexianghe",
+  rgb: [105, 75, 60, ],
+  hex: "#694b3c"
+},
+{
+  name: "椒褐",
+  alias: "jiaohe",
+  rgb: [114, 69, 58, ],
+  hex: "#72453a"
+},
+{
+  name: "枣褐",
+  alias: "zaohe",
+  rgb: [104, 54, 26, ],
+  hex: "#68361a"
+},
+{
+  name: "目童子",
+  alias: "mutongzi",
+  rgb: [91, 50, 34, ],
+  hex: "#5b3222"
+},
+{
+  name: "青骊",
+  alias: "qingli",
+  rgb: [66, 37, 23, ],
+  hex: "#422517"
+},
+{
+  name: "丁香褐",
+  alias: "dingxianghe",
+  rgb: [189, 150, 131, ],
+  hex: "#bd9683"
+},
+{
+  name: "肉红",
+  alias: "rouhong",
+  rgb: [221, 197, 184, ],
+  hex: "#ddc5b8"
+},
+{
+  name: "夏籥",
+  alias: "xiayue",
+  rgb: [210, 175, 157, ],
+  hex: "#d2af9d"
+},
+{
+  name: "檀唇",
+  alias: "tanchun",
+  rgb: [218, 158, 140, ],
+  hex: "#da9e8c"
+},
+{
+  name: "紫磨金",
+  alias: "zimojin",
+  rgb: [186, 131, 107, ],
+  hex: "#ba836b"
+},
+{
+  name: "檀色",
+  alias: "tanse",
+  rgb: [178, 109, 93, ],
+  hex: "#b26d5d"
+},
+{
+  name: "鹰背褐",
+  alias: "yinbeihe",
+  rgb: [143, 109, 95, ],
+  hex: "#8f6d5f"
+},
+{
+  name: "赭罗",
+  alias: "zheluo",
+  rgb: [154, 102, 85, ],
+  hex: "#9a6655"
+},
+{
+  name: "老僧衣",
+  alias: "laosengyi",
+  rgb: [164, 95, 68, ],
+  hex: "#a45f44"
+},
+{
+  name: "姜黄",
+  alias: "jianghuang",
+  rgb: [214, 197, 96, ],
+  hex: "#d6c560"
+},
+{
+  name: "半见",
+  alias: "banjian",
+  rgb: [255, 251, 199, ],
+  hex: "#fffbc7"
+},
+{
+  name: "断肠",
+  alias: "duanchang",
+  rgb: [236, 235, 194, ],
+  hex: "#ecebc2"
+},
+{
+  name: "葱青",
+  alias: "congqing",
+  rgb: [237, 241, 187, ],
+  hex: "#edf1bb"
+},
+{
+  name: "女贞黄",
+  alias: "nvzhenhuang",
+  rgb: [247, 238, 173, ],
+  hex: "#f7eead"
+},
+{
+  name: "莺儿",
+  alias: "yinger",
+  rgb: [235, 225, 169, ],
+  hex: "#ebe1a9"
+},
+{
+  name: "桑蕾",
+  alias: "sanglei",
+  rgb: [234, 216, 154, ],
+  hex: "#ead89a"
+},
+{
+  name: "娟纨",
+  alias: "juanwan",
+  rgb: [236, 224, 147, ],
+  hex: "#ece093"
+},
+{
+  name: "少艾",
+  alias: "shaoai",
+  rgb: [227, 235, 152, ],
+  hex: "#e3eb98"
+},
+{
+  name: "绮钱",
+  alias: "qiqian",
+  rgb: [216, 222, 138, ],
+  hex: "#d8de8a"
+},
+{
+  name: "翠樽",
+  alias: "cuizun",
+  rgb: [205, 209, 113, ],
+  hex: "#cdd171"
+},
+{
+  name: "田赤",
+  alias: "tianchi",
+  rgb: [225, 211, 132, ],
+  hex: "#e1d384"
+},
+{
+  name: "禹余粮",
+  alias: "yuyuliang",
+  rgb: [225, 210, 121, ],
+  hex: "#e1d279"
+},
+{
+  name: "姚黄",
+  alias: "yaohuang",
+  rgb: [214, 188, 70, ],
+  hex: "#d6bc46"
+},
+{
+  name: "太一余粮",
+  alias: "taiyiyuliang",
+  rgb: [213, 180, 92, ],
+  hex: "#d5b45c"
+},
+{
+  name: "栾华",
+  alias: "luanhua",
+  rgb: [192, 173, 94, ],
+  hex: "#c0ad5e"
+},
+{
+  name: "秋香",
+  alias: "qiuxiang",
+  rgb: [191, 156, 70, ],
+  hex: "#bf9c46"
+},
+{
+  name: "大赤",
+  alias: "dachi",
+  rgb: [170, 150, 73, ],
+  hex: "#aa9649"
+},
+{
+  name: "苍黄",
+  alias: "canghuang",
+  rgb: [182, 160, 20, ],
+  hex: "#b6a014"
+},
+{
+  name: "老茯神",
+  alias: "laofusheng",
+  rgb: [170, 133, 52, ],
+  hex: "#aa8534"
+},
+{
+  name: "流黄",
+  alias: "liuhuang",
+  rgb: [139, 112, 66, ],
+  hex: "#8b7042"
+},
+{
+  name: "青白玉",
+  alias: "qingbaiyu",
+  rgb: [202, 197, 160, ],
+  hex: "#cac5a0"
+},
+{
+  name: "玉色",
+  alias: "yuse",
+  rgb: [234, 228, 209, ],
+  hex: "#eae4d1"
+},
+{
+  name: "骨缥",
+  alias: "gupiao",
+  rgb: [235, 227, 199, ],
+  hex: "#ebe3c7"
+},
+{
+  name: "黄润",
+  alias: "huangrun",
+  rgb: [223, 214, 184, ],
+  hex: "#dfd6b8"
+},
+{
+  name: "缣缃",
+  alias: "jianxiang",
+  rgb: [213, 200, 160, ],
+  hex: "#d5c8a0"
+},
+{
+  name: "佩玖",
+  alias: "peijiu",
+  rgb: [172, 159, 138, ],
+  hex: "#ac9f8a"
+},
+{
+  name: "玄校",
+  alias: "xuanxiao",
+  rgb: [169, 160, 130, ],
+  hex: "#a9a082"
+},
+{
+  name: "黄琮",
+  alias: "huangcong",
+  rgb: [158, 140, 107, ],
+  hex: "#9e8c6b"
+},
+{
+  name: "石莲褐",
+  alias: "shilianhe",
+  rgb: [146, 137, 123, ],
+  hex: "#92897b"
+},
+{
+  name: "绿豆褐",
+  alias: "lvdouhe",
+  rgb: [146, 137, 107, ],
+  hex: "#92896b"
+},
+{
+  name: "綟绶",
+  alias: "lishou",
+  rgb: [117, 108, 75, ],
+  hex: "#756c4b"
+},
+{
+  name: "茶色",
+  alias: "chase",
+  rgb: [136, 118, 87, ],
+  hex: "#887657"
+},
+{
+  name: "濯绛",
+  alias: "zhuojiang",
+  rgb: [121, 104, 96, ],
+  hex: "#796860"
+},
+{
+  name: "黑朱",
+  alias: "heizhu",
+  rgb: [112, 105, 93, ],
+  hex: "#70695d"
+},
+{
+  name: "冥色",
+  alias: "mingse",
+  rgb: [102, 95, 77, ],
+  hex: "#665f4d"
+},
+{
+  name: "伽罗",
+  alias: "jialuo",
+  rgb: [109, 92, 61, ],
+  hex: "#6d5c3d"
+},
+{
+  name: "苍艾",
+  alias: "cangai",
+  rgb: [90, 76, 59, ],
+  hex: "#5a4c3b"
+},
 ]
 
 export const colors = {
@@ -1353,4 +1935,101 @@ export const colors = {
   "meidie": "#bc6e37",
   "huangliu": "#9f6027",
   "meige": "#9f5221",
+  "jiujinghuang": "#ddb078",
+  "fukenhong": "#ecd9c7",
+  "chizhang": "#e1c199",
+  "rumengling": "#ddbb99",
+  "jianse": "#c6a268",
+  "yunhuang": "#d2a36c",
+  "jiaofang": "#db9c5e",
+  "jinlie": "#be9457",
+  "cihuang": "#b4884d",
+  "mituoseng": "#b3934b",
+  "dakuai": "#bfa782",
+  "mihe": "#dfd7c2",
+  "dilai": "#dfceb4",
+  "xianmi": "#d4c9aa",
+  "jiashannan": "#d4c1a6",
+  "huangliang": "#c4b798",
+  "shimi": "#c4bf89",
+  "zihuabu": "#bea78b",
+  "huangfeng": "#cab272",
+  "yangshengzhu": "#b49b7f",
+  "shaxing": "#bfa670",
+  "huangluo": "#b4a379",
+  "zhengli": "#a58a5f",
+  "julv": "#aa8e59",
+  "jiangzhenxiang": "#9e8358",
+  "dayun": "#94784f",
+  "jijin": "#896d47",
+  "yuanzhi": "#81663b",
+  "shegan": "#7c623f",
+  "youhulu": "#644d31",
+  "longzhan": "#5f4321",
+  "zouchi": "#804c2e",
+  "jiahui": "#beb1aa",
+  "zhuzihe": "#bea89d",
+  "huangai": "#b49273",
+  "chenxiang": "#99806c",
+  "minchahe": "#9e8368",
+  "jinhe": "#906c4a",
+  "tuohe": "#7c5b3e",
+  "yunfu": "#984f31",
+  "tanglihe": "#955a42",
+  "tanhe": "#945635",
+  "zhushihe": "#81492c",
+  "ziou": "#7c461e",
+  "like": "#775039",
+  "shexianghe": "#694b3c",
+  "jiaohe": "#72453a",
+  "zaohe": "#68361a",
+  "mutongzi": "#5b3222",
+  "qingli": "#422517",
+  "dingxianghe": "#bd9683",
+  "rouhong": "#ddc5b8",
+  "xiayue": "#d2af9d",
+  "tanchun": "#da9e8c",
+  "zimojin": "#ba836b",
+  "tanse": "#b26d5d",
+  "yinbeihe": "#8f6d5f",
+  "zheluo": "#9a6655",
+  "laosengyi": "#a45f44",
+  "jianghuang": "#d6c560",
+  "banjian": "#fffbc7",
+  "duanchang": "#ecebc2",
+  "congqing": "#edf1bb",
+  "nvzhenhuang": "#f7eead",
+  "yinger": "#ebe1a9",
+  "sanglei": "#ead89a",
+  "juanwan": "#ece093",
+  "shaoai": "#e3eb98",
+  "qiqian": "#d8de8a",
+  "cuizun": "#cdd171",
+  "tianchi": "#e1d384",
+  "yuyuliang": "#e1d279",
+  "yaohuang": "#d6bc46",
+  "taiyiyuliang": "#d5b45c",
+  "luanhua": "#c0ad5e",
+  "qiuxiang": "#bf9c46",
+  "dachi": "#aa9649",
+  "canghuang": "#b6a014",
+  "laofusheng": "#aa8534",
+  "liuhuang": "#8b7042",
+  "qingbaiyu": "#cac5a0",
+  "yuse": "#eae4d1",
+  "gupiao": "#ebe3c7",
+  "huangrun": "#dfd6b8",
+  "jianxiang": "#d5c8a0",
+  "peijiu": "#ac9f8a",
+  "xuanxiao": "#a9a082",
+  "huangcong": "#9e8c6b",
+  "shilianhe": "#92897b",
+  "lvdouhe": "#92896b",
+  "lishou": "#756c4b",
+  "chase": "#887657",
+  "zhuojiang": "#796860",
+  "heizhu": "#70695d",
+  "mingse": "#665f4d",
+  "jialuo": "#6d5c3d",
+  "cangai": "#5a4c3b",
 }
