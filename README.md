@@ -1,4 +1,5 @@
 # 中国传统色 / Chinese Traditional Colors
+[![Publish Npm Package](https://github.com/DingDean/hua-mei/actions/workflows/publish-tailwind.yml/badge.svg)](https://github.com/DingDean/hua-mei/actions/workflows/publish-tailwind.yml)
 
 ## 使用指南 Get Started
 
