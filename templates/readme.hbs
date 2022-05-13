@@ -18,8 +18,8 @@ module.exports = {
 3. 使用颜色，比如 `text-renlai`
 
 ## 颜色预览 Color Previews
-| 名字 / Name| 颜色 / Color| 色号 / Hex |
-|---|---|---|
+| 名字 / Name| 代号 / CodeName | 颜色 / Color| 色号 / Hex |
+|---|---|---|---|
 {{#each colors}}
-|{{this.name}}| ![{{this.name}}](https://via.placeholder.com/150x32/{{this.hex2}}?text=+) | {{this.hex}} |
+|{{this.name}}|{{this.alias}}| ![{{this.name}}](https://via.placeholder.com/150x32/{{this.hex2}}.png?text=+) | {{this.hex}} |
 {{/each}}
